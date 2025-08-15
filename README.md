@@ -9,4 +9,4 @@ to-do-list | HTML | CSS | JS
 -save changes in **Local Stoarge**
 
 ---
-**URL:**https://the-first-to-do.vercel.app/
+**URL:** https://the-first-to-do.vercel.app/
